@@ -2,6 +2,15 @@
 <h1 align="center">Hi 👋, I'm Shantanu Potdar</h1>
 <h3 align="center">A passionate about Full-Stack CRUD Application with MongoDB, Express, React, and Node.js, featuring Interactive Power BI Dashboards and Spatial Data Integration for Modern Web Development from India.</h3>
 
+
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shantanu23potdar" alt="shantanu23potdar" /></a> </p>
 
 - 💬 Ask me about **JAVA , MERN**
